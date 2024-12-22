@@ -1,4 +1,4 @@
-# user-center-frontend
+# user-center-frontend——程序员鱼皮的公开课前端学习项目
 
 ## Project setup
 ```
